@@ -17,6 +17,8 @@ This is my first project I am finishing and making open source.
 - Make asset and shot specific notes
 - Simple project preset system
 
+![Screenshot 2024-02-18 002323](https://github.com/michal212345/Notes_For_Prism/assets/20019071/7633a6b1-4b3e-4337-8637-0f9711944122)
+
 ## Issues
 
 - You cant interact with the markdown
